@@ -1,0 +1,6 @@
+% image, view, open, feh
+
+# displays the given image
+feh <image>
+
+$ image: ls | egrep '\.jpg$|\.png$|\.gif$'
