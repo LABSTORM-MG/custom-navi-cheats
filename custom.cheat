@@ -3,4 +3,4 @@
 # displays the given image
 feh <image>
 
-$ image: ls | egrep '\.jpg$|\.png$|\.gif$'
+$ image: ls | grep -E '\.jpg$|\.png$|\.gif$'
