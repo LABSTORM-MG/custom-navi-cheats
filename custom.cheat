@@ -4,3 +4,11 @@
 feh <image>
 
 $ image: ls | grep -E '\.jpg$|\.png$|\.gif$'
+
+
+% color picker
+
+# starts Gpick
+gpick
+
+
