@@ -12,3 +12,6 @@ $ image: ls | grep -E '\.jpg$|\.png$|\.gif$'
 gpick
 
 
+% update oh my posh, omp
+
+$ curl -s https://ohmyposh.dev/install.sh | sudo bash -s
